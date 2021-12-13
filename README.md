@@ -1,6 +1,6 @@
 ### Hi there 👋, BreadoMatic Github
 #### I am breadomatic
-![I am breadomatic](https://i.imgur.com/qv1Oyyy.gif)
+![I am breadomatic](https://api1.iloveimg.com/v1/download/h78v5cdfh9h84f6mAdlq865qz865rhqhfq5vAfjv2hqwxycvwky6fbbkAk78wzl2g5nv1sxm3t9hxm7l434dv078rg28cgls459Alv757Aw1z9v8x6ll7tf1wh9pt5c761n1bw5yk2kcjls2v8bs20t77k7qj3bfwp41h533hbr07n7l8l91)
 
 You know me as animator but secretly i like coding too
 
