@@ -1,6 +1,6 @@
 ## BreadoMatic Github
 #### Hello my name is  **BreadoMatic**
-[![Discord Presence](https://lanyard.cnrad.dev/api/904150349139554324)](https://discord.com/users/904150349139554324)
+[![Discord Presence](https://lanyard.cnrad.dev/api/904150349139554324)(https://discord.com/users/904150349139554324)
 ![this is image](https://discord.c99.nl/widget/theme-3/904150349139554324.png)
 
 You know me as animator but secretly i like coding too
