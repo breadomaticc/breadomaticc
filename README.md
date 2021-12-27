@@ -33,6 +33,6 @@
 ---  
 
 <p align="center"> 
-  Compteur de visites :<br>
+  My Visitor Count:<br>
   <img src="https://profile-counter.glitch.me/breadomaticc/count.svg" />
 </p>
