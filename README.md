@@ -13,7 +13,7 @@
 
 <br><br>
 <p align="center">
-	<b>Languages & Frameworks</b>
+	<b>Skill</b>
 	<br>
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
@@ -29,6 +29,15 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=breadomaticc">
 </p>
 
+<p align="center">
+	<b>My Repositories:</b>
+	<br>
+	<img src="https://gh-card.dev/repos/breadomaticc/breadomaticc.github.io.svg">
+	<br>
+	<img src="https://gh-card.dev/repos/breadomaticc/binjaisavior.svg">
+	<br>
+	<img src="https://gh-card.dev/repos/breadomaticc/about.svg">
+</p>
 
 <p>&nbsp;</p>    
 
