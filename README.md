@@ -26,7 +26,7 @@
 	<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadomaticc&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 	<br>
-	<img src+"https://activity-graph.herokuapp.com/graph?username=breadomaticc">
+	<img src="https://activity-graph.herokuapp.com/graph?username=breadomaticc">
 </p>
 
 
