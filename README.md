@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!;I'm+BreadoMatic;HTML+%2F+CSS+%2F+JS+Dev;%3CRepeat+The+Text%3E">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello!;I'm+BreadoMatic;HTML+%2F+CSS+Dev;%3CRepeat+The+Text%3E">
   <a href="https://discord.gg/77xMs6WyS2">Discord</a> |
   <a href="https://www.youtube.com/channel/UC0eAf-f0ZWr75E_WTBGYu4w">YouTube</a> |
   <a href="https://replit.com/@breadomatic">Replit</a>
