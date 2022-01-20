@@ -19,23 +19,23 @@
 	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;
 	<br><br>
 	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=breadomaticc&theme=dark&hide_border=true">
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=susbread&theme=dark&hide_border=true">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=breadomaticc&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api?username=susbread&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=breadomaticc&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susbread&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 	<br>
-	<img src="https://activity-graph.herokuapp.com/graph?username=breadomaticc">
+	<img src="https://activity-graph.herokuapp.com/graph?username=susbread">
 </p>
 
 <p align="center">
 	<b>My Repositories:</b>
 	<br>
-	<img src="https://gh-card.dev/repos/breadomaticc/breadomaticc.github.io.svg">
+	<img src="
+https://gh-card.dev/repos/susbread/susbread.github.io.svg?fullname=
+">
 	<br>
-	<img src="https://gh-card.dev/repos/breadomaticc/binjaisavior.svg">
-	<br>
-	<img src="https://gh-card.dev/repos/breadomaticc/about.svg">
+	<img src="https://gh-card.dev/repos/susbread/binjaisavior.svg?fullname=">
 </p>
 
 <p>&nbsp;</p>    
@@ -44,5 +44,5 @@
 
 <p align="center"> 
   My Visitor Count:<br>
-  <img src="https://profile-counter.glitch.me/breadomaticc/count.svg" />
+  <img src="https://profile-counter.glitch.me/susbread/count.svg" />
 </p>
